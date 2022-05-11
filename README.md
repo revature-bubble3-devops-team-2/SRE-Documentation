@@ -6,7 +6,7 @@ The Frontend developed using [AngularCLI](https://angular.io/guide/setup-local).
 
 Bubble is a social media application, that allows users to sign up for free and create accounts. Once logged in, users can search and add friends as well as create a group with certain people in your friends list. Users can share post: which include normal text, pictures and/or videos. Users are also able to see what their friends' are posting and reply to the post with a comment. These features and overall project were made possible by previous batches. The second batch, Full Stack Java and Angular, were responsible for creating the major functionalities of the application. While Bubble3, the third batch, added to the application through additional user stories. 
 
-We are the fourth batch to be working on this application, while the other batches worked on the actual development side of the application. We were tasked to take this full stack application and apply SRE principles. This included developing a Jenkins pipeline to Continuosly Integrate, Deliver and Deploy our code. The deployment to the cloud allowed to the application to be constantly monitored, making sure our SLIs are being recorded to ensure SLOs are being met.
+We are the fourth batch to be working on this application, while the other batches worked on the actual development side of the application. We were tasked to take this full stack application and apply SRE principles. This included developing a Jenkins pipeline to Continuosly Integrate, Deliver and Deploy our code. The deployment to the cloud allowed for the application to be constantly monitored, making sure our SLIs are being recorded to ensure SLOs are being met.
 
 ## Installations
 * Java
